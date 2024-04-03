@@ -16,6 +16,6 @@ On Linux/Mac:
 On Windows:
 `pip install windows-curses`
 
-####Art
+#### Art
 Universal:
 `pip install art`
